@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="getBuCuRu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/getBuCuRu_jar</output-path>
+    <root id="root">
+      <element id="archive" name="getBuCuRu.jar">
+        <element id="module-output" name="getBuCuRu" />
+      </element>
+    </root>
+  </artifact>
+</component>
