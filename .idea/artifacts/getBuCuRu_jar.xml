@@ -3,7 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/getBuCuRu_jar</output-path>
     <root id="root">
       <element id="archive" name="getBuCuRu.jar">
-        <element id="module-output" name="getBuCuRu" />
+        <element id="module-output" name="getDockerBuCuRu" />
       </element>
     </root>
   </artifact>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/getBuCuRu.iml" filepath="$PROJECT_DIR$/getBuCuRu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getDockerBuCuRu.iml" filepath="$PROJECT_DIR$/getDockerBuCuRu.iml" />
     </modules>
   </component>
 </project>
