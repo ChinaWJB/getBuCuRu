@@ -5,6 +5,7 @@ import java.io.*;
  */
 public class GetBCRu {
     public static void main(String[] args) {
+        //add
         //给当前目录下的文件进行重命名
         String reName = "mv quickSort.jar quick.jar";
 
